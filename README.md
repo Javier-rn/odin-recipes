@@ -1,0 +1,1 @@
+This project is a HTML and CSS based recipes website. I hope to learn about HTML and CSS while doing the project. The first version will be HTML only. In the near future I will updated to have styles with CSS.
